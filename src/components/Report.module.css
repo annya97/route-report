@@ -1,0 +1,12 @@
+.container {
+  box-shadow: 0 2px 14px 10px #0000000f;
+}
+
+.footer {
+  background-color: #f4f4f4;
+}
+
+.generate {
+  background-color: #2fc93c !important;
+  border-color: #2fc93c !important;
+}

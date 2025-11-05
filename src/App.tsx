@@ -1,5 +1,12 @@
+import { Report } from './components/Report';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 function App() {
-  return <h1>Hi!</h1>;
+  return (
+    <>
+      <Report />
+    </>
+  );
 }
 
 export default App;
